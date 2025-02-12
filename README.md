@@ -1,4 +1,9 @@
-![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySP19&show_icons=true&rank_icon=github&theme=dark&title_color=9147ff&icon_color=9147ff&text_color=c0c0c0&bg_color=000000)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleySP19&show_icons=true&rank_icon=github&theme=dark&title_color=9147ff&icon_color=9147ff&text_color=c0c0c0&bg_color=000000"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=WesleySP19&theme=dark&background=000000&ring=ff8800&fire=ff8800&currStreakLabel=ff8800"/>
+</div>
+
+
 
 
 # 🧙 Wesley Souza 🧙
