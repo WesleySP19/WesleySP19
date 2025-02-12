@@ -1,3 +1,5 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&rank_icon=github&theme=tokyonight)
+
 # 🧙 Wesley Souza 🧙
 
 > "Um programador não chega atrasado, nem adiantado. Ele chega exatamente quando pretende chegar." — (Talvez Gandalf, se fosse Dev)
