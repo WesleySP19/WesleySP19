@@ -12,10 +12,11 @@ Agora, assim como Luffy zarpando para encontrar o One Piece ou Frodo encarando a
 
 Todo herói precisa de uma primeira missão, certo? Para testar meus conhecimentos adquiridos nesse primeiro ano, embarquei no desenvolvimento de um **chat de estudos e conversação** para o time de futebol americano amador do qual faço parte. Unir programação e um dos meus hobbies tem sido um **desafio épico**, mas também **uma jornada incrível!**
 
-## 🔥 Tecnologias que Forjaram Minha Espada
+## 🔥 Tecnologias que Forjaram Meu conhecimento ate aqui 🔥
 
 Sou um verdadeiro guerreiro do **Java**, a linguagem que empunho como minha espada principal. Porém, como um pirata destemido ou um mago curioso, já **explorei outros reinos** como:
 
+- **Java** – A poderosa magia ancestral que escolhi como minha espada, forte e confiável para qualquer batalha no código.
 - **PHP** – Um artefato misterioso que já investiguei.
 - **Lua** – Uma magia interessante que já toquei.
 - **SQL** – O grimório essencial para desvendar segredos do banco de dados.
