@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&rank_icon=github&theme=tokyonight)
+![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=WesleySP19&show_icons=true&rank_icon=github&theme=dark&title_color=9147ff&icon_color=9147ff&text_color=c0c0c0&bg_color=000000)
+
 
 # 🧙 Wesley Souza 🧙
 
