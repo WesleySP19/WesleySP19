@@ -1,4 +1,4 @@
-# 🏴‍☠️🧙 Wesley Souza - O Viajante Entre Mundos do Código e dos Sonhos
+# 🧙 Wesley Souza 🧙
 
 > "Um programador não chega atrasado, nem adiantado. Ele chega exatamente quando pretende chegar." — (Talvez Gandalf, se fosse Dev)
 
